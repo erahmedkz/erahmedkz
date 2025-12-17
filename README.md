@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **erahmedkz/erahmedkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://www.linkedin.com/in/%D0%B0%D1%85%D0%BC%D0%B5%D0%B4-%D0%B5%D1%80%D0%BC%D0%B5%D0%BA-877051314/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIMdtLi1ZRdCEAplakzNNYA%3D%3D)
